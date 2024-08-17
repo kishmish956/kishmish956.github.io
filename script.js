@@ -14,4 +14,5 @@ function play(userChoice) {
             } else {
                 resultText.innerText = `Вы проиграли! ${computerChoice} побеждает ${userChoice}.`;
             }
+}
         
